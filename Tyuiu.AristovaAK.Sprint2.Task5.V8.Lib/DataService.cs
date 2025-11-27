@@ -35,7 +35,7 @@ namespace Tyuiu.AristovaAK.Sprint2.Task5.V8.Lib
 
                 }
             }
-            return $"{n}.{m}";
+            return $"{n:00}.{m:00}";
 
         }
     }
