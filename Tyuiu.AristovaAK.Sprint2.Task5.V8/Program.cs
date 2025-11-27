@@ -7,7 +7,7 @@ internal class Program
         Console.Title = "Спринт #2 | Выполнила: Аристова А. К. | СМАРТб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #2                                                               *");
-        Console.WriteLine("* Тема: Тернарный оператор                                                *");
+        Console.WriteLine("* Тема: Оператор switch                                                   *");
         Console.WriteLine("* Задание #5                                                              *");
         Console.WriteLine("* Вариант #8                                                              *");
         Console.WriteLine("* Выполнила: Аристова Алина Константиновна | СМАРТб-25-1                  *");
